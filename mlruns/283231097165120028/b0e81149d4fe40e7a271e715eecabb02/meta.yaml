@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/OUMAIMA/Desktop/MASTER_SID/process%20data/Road-Traffic-Accident-Severity-Classification/mlruns/283231097165120028/b0e81149d4fe40e7a271e715eecabb02/artifacts
+end_time: 1733697940249
+entry_point_name: ''
+experiment_id: '283231097165120028'
+lifecycle_stage: active
+run_id: b0e81149d4fe40e7a271e715eecabb02
+run_name: zealous-wren-625
+run_uuid: b0e81149d4fe40e7a271e715eecabb02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733697931310
+status: 3
+tags: []
+user_id: OUMAIMA

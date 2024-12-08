@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/OUMAIMA/Desktop/MASTER_SID/process%20data/Road-Traffic-Accident-Severity-Classification/mlruns/283231097165120028/cf84f2c602e047a688484d120fb37af4/artifacts
+end_time: 1733697870277
+entry_point_name: ''
+experiment_id: '283231097165120028'
+lifecycle_stage: active
+run_id: cf84f2c602e047a688484d120fb37af4
+run_name: gregarious-frog-396
+run_uuid: cf84f2c602e047a688484d120fb37af4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733697858211
+status: 3
+tags: []
+user_id: OUMAIMA
