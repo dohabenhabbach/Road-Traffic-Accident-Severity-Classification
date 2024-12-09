@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/OUMAIMA/Desktop/MASTER_SID/process%20data/Road-Traffic-Accident-Severity-Classification/mlruns/283231097165120028/0e9f1767de4c417b9f24e7659326b48c/artifacts
+end_time: 1733697961745
+entry_point_name: ''
+experiment_id: '283231097165120028'
+lifecycle_stage: active
+run_id: 0e9f1767de4c417b9f24e7659326b48c
+run_name: puzzled-doe-109
+run_uuid: 0e9f1767de4c417b9f24e7659326b48c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733697949681
+status: 3
+tags: []
+user_id: OUMAIMA

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733699464548
+current_stage: None
+description: null
+last_updated_timestamp: 1733699464548
+name: mlflow_accident
+run_id: 2e687cb8e26742e395077da35b183e2c
+run_link: null
+source: file:///C:/Users/OUMAIMA/Desktop/MASTER_SID/process%20data/Road-Traffic-Accident-Severity-Classification/mlruns/283231097165120028/2e687cb8e26742e395077da35b183e2c/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/OUMAIMA/Desktop/MASTER_SID/process%20data/Road-Traffic-Accident-Severity-Classification/mlruns/283231097165120028/2e687cb8e26742e395077da35b183e2c/artifacts/model
+user_id: null
+version: 1
