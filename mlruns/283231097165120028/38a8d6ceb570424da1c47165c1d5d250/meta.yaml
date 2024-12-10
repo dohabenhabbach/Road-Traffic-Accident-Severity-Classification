@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/OUMAIMA/Desktop/MASTER_SID/process%20data/Road-Traffic-Accident-Severity-Classification/mlruns/283231097165120028/38a8d6ceb570424da1c47165c1d5d250/artifacts
+end_time: 1733697849227
+entry_point_name: ''
+experiment_id: '283231097165120028'
+lifecycle_stage: active
+run_id: 38a8d6ceb570424da1c47165c1d5d250
+run_name: mysterious-loon-988
+run_uuid: 38a8d6ceb570424da1c47165c1d5d250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733697840741
+status: 3
+tags: []
+user_id: OUMAIMA
